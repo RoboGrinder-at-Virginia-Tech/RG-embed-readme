@@ -91,6 +91,11 @@ where make mingw32-make # run them in MINGW64 shell window as before
 
 <img src="./RG-embed-envir-setup.assets/image-20250305214959164.png" alt="image-20250305214959164" style="zoom:67%;" />
 
+Go to Edit the environment system on your computer, in Advanced -> Environment Variables and follow the step below:
+<img width="623" height="709" alt="Screenshot 2025-12-07 122834" src="https://github.com/user-attachments/assets/d703c927-7e74-49cf-ad5a-2ba44103ecfa" />
+
+<img width="880" height="973" alt="Screenshot 2025-12-07 122909" src="https://github.com/user-attachments/assets/e05aa6cf-a4c3-4eeb-b21c-b9a759915bff" />
+
 Then add: `C:\msys64\mingw64\bin` and `C:\msys64\usr\bin` to systems environment variable `Path` in this order.
 
 ![image-20250305214548011](./RG-embed-envir-setup.assets/image-20250305214548011.png)
@@ -109,7 +114,8 @@ Make sure to install this version, V3.24 (32-bit), (link: https://www.segger.com
 
 <img src="./RG-embed-envir-setup.assets/image-20221116150122397.png" alt="image-20221116150122397" style="zoom: 67%;" />
 
-Make sure to select "install a new instance" at this step.
+Make sure to s<img width="880" height="973" alt="Screenshot 2025-12-07 122909" src="https://github.com/user-attachments/assets/c14bc248-4579-4857-9ad7-63756bb76cda" />
+elect "install a new instance" at this step.
 
 ### Install J-Link driver & toolbox V7.22b (32-bit)
 
