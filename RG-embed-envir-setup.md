@@ -114,8 +114,7 @@ Make sure to install this version, V3.24 (32-bit), (link: https://www.segger.com
 
 <img src="./RG-embed-envir-setup.assets/image-20221116150122397.png" alt="image-20221116150122397" style="zoom: 67%;" />
 
-Make sure to s<img width="880" height="973" alt="Screenshot 2025-12-07 122909" src="https://github.com/user-attachments/assets/c14bc248-4579-4857-9ad7-63756bb76cda" />
-elect "install a new instance" at this step.
+Make sure to select "install a new instance" at this step.
 
 ### Install J-Link driver & toolbox V7.22b (32-bit)
 
